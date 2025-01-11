@@ -16,11 +16,3 @@ A Python-based tool to help optimize crop selection in Stardew Valley. This app 
 - **Streamlit**: Interactive app interface.
 
 ---
-
-## 🚀 How to Install and Run the Project
-Follow these steps to set up and run the app locally:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/emilypolanco20/stardew-crop-profit-maximizer.git
-cd stardew-crop-profit-maximizer
