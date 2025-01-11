@@ -1,0 +1,35 @@
+Name,Season,Seed Cost,Growth Time,Regrowth Time,Selling Price
+Parsnip,Spring,20,4,0,35
+Green Bean,Spring,60,10,3,40
+Cauliflower,Spring,80,12,0,175
+Potato,Spring,50,6,0,80
+Garlic,Spring,40,4,0,60
+Kale,Spring,70,6,0,110
+Strawberry,Spring,100,8,4,120
+Blue Jazz,Spring,30,7,0,50
+Tulip,Spring,20,6,0,30
+
+Blueberry,Summer,80,13,4,50
+Corn,Summer,150,14,4,50
+Hops,Summer,60,11,1,25
+Melon,Summer,80,12,0,250
+Pepper,Summer,40,5,3,40
+Radish,Summer,40,6,0,90
+Red Cabbage,Summer,100,9,0,260
+Tomato,Summer,50,11,4,60
+Wheat,Summer,10,4,0,25
+Poppy,Summer,100,7,0,140
+Spangle,Summer,50,8,0,90
+
+Corn,Fall,150,14,4,50
+Wheat,Fall,10,4,0,25
+Amaranth,Fall,70,7,0,150
+Artichoke,Fall,30,8,0,160
+Beet,Fall,20,6,0,100
+Bok Choy,Fall,50,4,0,80
+Cranberries,Fall,240,7,5,75
+Eggplant,Fall,20,5,5,60
+Fairy Rose,Fall,200,12,0,290
+Grape,Fall,60,10,3,80
+Pumpkin,Fall,100,13,0,320
+Yam,Fall,60,10,0,160
